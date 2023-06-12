@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var strings = []string{"João", "Carlos", "Maria", "Pedro", "Gerson", "Patrick", "Livia", "Violeta", "Paulo"}
+	var strings = []string{"Georges", "Ana", "Julia", "Pedro", "Gerson", "Gabriel", "Livia", "Argelia"}
 	var letra string
 
 	fmt.Println("Slice inicial:", strings)
